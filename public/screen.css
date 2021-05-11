@@ -6,30 +6,35 @@ html {
   height: 100%;
 }
 
-header {
+h1 {
   color: indianred;
   background-color: seashell;
   border: 3px solid black;
-  padding: 20px 50px 20px 80px;
+  padding: 30px 50px 30px 80px;
+  margin: 5px;
+  font-family: cursive;
 }
 body {
   margin: 0;
   min-height: 100%;
   background-color: antiquewhite;
 }
+h2 {
+  margin: 20px 20px;
+  font-family: fantasy;
+}
 .rounded {
   border-radius: 40px;
 }
 
-h2 {
-  margin: 20px 10px;
-}
 p {
   padding: 10px;
   margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 ul {
   margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 img {
   margin: 20px;
