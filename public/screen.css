@@ -41,5 +41,10 @@ ul {
   font-family: Arial, Helvetica, sans-serif;
 }
 img {
-  margin: 20px;
+  margin: 5px 20px;
+}
+figcaption {
+  color: gray;
+  font-size: 12px;
+  margin-left: 20px;
 }
